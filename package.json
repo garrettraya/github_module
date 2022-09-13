@@ -1,0 +1,18 @@
+{
+  "name": "raya-request",
+  "version": "0.0.1",
+  "description": "Adapter for a http request module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Estrin",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "faster-underscore": "^1.0.4",
+    "qs": "^6.11.0",
+    "underscore": "^1.13.4"
+  }
+}
